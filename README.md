@@ -1,3 +1,5 @@
+# CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/enetproxy
+
 # Growtopia enet proxy
 
 # Download release for V3.51 [here](https://github.com/ama6nen/enetproxy/releases/tag/V3.51)
